@@ -295,3 +295,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 | Upvest | security@upvest.co | |
+
+## Venture Firms
+
+| Name | Contact | More info |
+| --- | --- | --- |
+| Ethereal Ventures | security@ethereal.xyz | |
